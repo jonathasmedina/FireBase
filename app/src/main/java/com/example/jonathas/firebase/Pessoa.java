@@ -1,11 +1,21 @@
 package com.example.jonathas.firebase;
 
+import java.util.ArrayList;
+
 /**
  * Created by Jonathas on 27/11/2016.
  */
 
 public class Pessoa {
-    String nome, endereco;
+    String nome, endereco, id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public Pessoa(){
 

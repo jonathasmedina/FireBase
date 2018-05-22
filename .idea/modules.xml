@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FireBase.iml" filepath="$PROJECT_DIR$/FireBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FireBase.iml" filepath="$PROJECT_DIR$/.idea/FireBase.iml" />
+      <module fileurl="file://E:\Projetos_AndroidStudio\FireBase\FireBase\FireBase.iml" filepath="E:\Projetos_AndroidStudio\FireBase\FireBase\FireBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
